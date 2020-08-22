@@ -10,6 +10,7 @@ If the shoe is not found it will keep looking for it until it finds it.
 
 
 The script is very simple the knowledge appreciated are: how to build a DiscordBot, how to do web scraping through BeautifulSouop and urllib.request. 
+
 Modules to install:
 ```
 pip install discord
