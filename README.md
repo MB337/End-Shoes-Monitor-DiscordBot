@@ -1,3 +1,4 @@
+ file: ![alt-text](https://github.com/MB337/End-Shoes-Monitor-DiscordBot/blob/master/DISCORDLIVEMONITOR.gif)
 # End Shoes Monitor DiscordBot
 **BOT FOR EDUCATIONAL PURPOSES ONLY.**
 
