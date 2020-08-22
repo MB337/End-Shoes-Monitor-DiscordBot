@@ -75,17 +75,5 @@ def keep_looking():
           print('I KEEP LOOKING...')
     client.run('YOUR_DISCORD_TOKEN_BOT(IF YOU DON'T KNOW WHAT I AM TALKING ABOUT, LOOK AT THIS:https://www.youtube.com/watch?v=xdg39s4HSJQ)')
 
- 
-
-        
-
-
-
-        
-
-
-
-
-
-            
+          
 client.run('YOUR_DISCORD_TOKEN_BOT(IF YOU DON'T KNOW WHAT I AM TALKING ABOUT, LOOK AT THIS:https://www.youtube.com/watch?v=xdg39s4HSJQ)')
